@@ -8,7 +8,8 @@ Eternal student, casually hardworking independent, acquired taste for web design
 </p>
 
 - 🎓 &nbsp; Studying **computer science** on <a href="https://www.estsetubal.ips.pt/">IPS</a>. <br/>
-- 💼 &nbsp; Working as a **WEB DEVELOPER** in <a href="https://megabeetle.com/">Megabeetle</a>
+- 💼 &nbsp; Worked as a **WEB DEVELOPER** in <a href="https://megabeetle.com/">Megabeetle</a>
+- 💼 &nbsp; Working as a **FULL STACK DEVELOPER** in <a href="https://www.sanjow.com/">Sanjow</a>
 
 <br/>
 <hr/>
